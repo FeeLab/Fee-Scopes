@@ -1,0 +1,23 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Joe\Documents\boards\featherscope_daq\v3_2\seeed_2021_02_01\Fabrication Files\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0070		123
+ 2 		0.0079		13
+ 3 		0.0140		160
+ 4 		0.0354		8
+ 5 		0.0394		4
+ 6 		0.0400		21
+ 7 		0.0512		4
+ 8 		0.0550		3
+ 9 		0.0600		12
+ 10 		0.0280		6
+ 11 		0.0787		1
+ 12 		0.1250		1
