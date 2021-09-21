@@ -13,3 +13,4 @@ TODO:
 
 -docs on bonsai module
 
+-microscope PCB
