@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT! Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab.
+Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. Please let us know if you find that any aspects of these resources could be improved!
 
 The microscopes described in this repository are featured in [this bioRxiv paper](https://www.biorxiv.org/content/10.1101/2021.09.03.458947v1).
 
@@ -18,7 +18,7 @@ The aspheric lens assemblies used in the Kiloscope are taken from replacement re
 
 ### Ground GRIN Lenses
 
-The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been modified by grinding it down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of these lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these lenses. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
+The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been ground down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of the original lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these components. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
 ### Prints
 
