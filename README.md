@@ -10,15 +10,19 @@ A fully functional system is comprised of the microscope itself, a DAQ and acqui
 
 ## Microscope
 
-Each microscope is built from small optical components mounted inside 3D printed parts. The optics needed for each microscope can be found under the Kiloscope and Featherscope tabs of `main_bom.ods`. The STEP files for the printed parts are located in the `body_components` folder.
+Each microscope is built from small optical components mounted inside 3D printed parts. The optics needed for each microscope can be found under the Kiloscope and Featherscope tabs of `main_bom.ods`. The STEP files for the printed parts are located in the `body_components` folder. Technical details about the construction process can be found in the Methods section of the paper.
 
 ### Aspheric Lenses
 
-The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. The lens module must first be removed from the sensor PCB using pliers. The outer sheet metal shell surrounding the lens module can then be removed by first sliding a scalpel underneath on all sides to remove mounting glue, and then carefully prying off the shell. The lens will then slide out of the housing. The remaining hardware attached to the lens can be clipped off with precision electronics pliers.
+The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. The lens module must first be removed from the sensor PCB using pliers. The outer sheet metal shell surrounding the lens module can then be removed by first sliding a scalpel underneath on all sides to remove mounting glue, and then carefully prying off the shell. The lens will then slide out of the housing. The remaining hardware attached to the lens can be clipped off with precision electronics pliers. Note that the lens material very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
+
+### Ground GRIN Lenses
+
+The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been modified by grinding it down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of these lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these lenses. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
 ### Prints
 
-We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
+We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company based in Minnesota that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
 
 ### Assembly
 
