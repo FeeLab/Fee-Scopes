@@ -20,7 +20,7 @@ The aspheric lens assemblies used in the Kiloscope are taken from replacement re
 
 The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been ground down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of the original lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these components. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
-## Prints
+## 3D Prints
 
 We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company based in Minnesota that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
 
@@ -53,18 +53,32 @@ Step-by-step instructions for assembling the microscopes are provided in `scope_
 # DAQ System
 
 ## Hardware
-The DAQ hardware is based on that of the [UCLA Miniscope](https://github.com/Aharoni-Lab/Miniscope-v4/wiki/DAQ-Hardware)
+The DAQ hardware is based on that of the [UCLA Miniscope](https://github.com/Aharoni-Lab/Miniscope-v4/wiki/DAQ-Hardware) and uses similar fabrication parameters. We had ours fabricated and assembled by [Seeed Studio](https://www.seeedstudio.com/) since these boards don't have as demanding specifications as the image sensor boards. Fabrication files can be found in the `DAQ` folder.
+
+You will need to flash the firmware onto EEPROM before using the boards. Compile the DAQ firmware code in `INSERT_DIRECTORY` using the [Cypress USB Suite](https://www.infineon.com/cms/en/design-support/tools/sdk/usb-controllers-sdk/ez-usb-fx3-software-development-kit/?utm_source=cypress&utm_medium=referral&utm_campaign=202110_globe_en_all_integration-software) and load it onto the board following the directions for the [UCLA Miniscope](https://github.com/Aharoni-Lab/Miniscope-DAQ-Cypress-firmware).
 
 ## Recording Software
+The DAQ board presents itself to your computer as a webcam device, and for testing can be opened as a streaming device in [VLC](https://www.videolan.org/vlc/). For experiments, we acquire data from the microscope using [Bonsai](https://bonsai-rx.org/), a reactive programming languange designed for the multiple asynchronous data streams typical of behavioral neuroscience experiments. Bonsai has modules for recording from the UCLA Miniscope, Neuropixels, National Instruments devices, Arduinos, and various other data streams. We have written a module for our microscopes that can be downloaded from the Bonsai package manager. The module outputs video data in RGB565 format and allows for control of the image sensor gain. The source code can be found in `INSERT_DIRECTORY `.
 
-
+An example Bonsai script for recording can be found in `INSERT_DIRECTORY`. This script saves video from both the microscope and from an animal tracking camera simultaneously, while recording timestamps for each frame of both streams. Video is saved in the raw RGB565 format, but the script also performs realtime conversion to a human-interpretable grayscale image for online monitoring of the fluorescence signal.
 
 
 # Illumination Optics
 
+## Laser
+Illumination light is provided by a multimode 473 nm laser similar to those used in optogenetics experiments. We use the MBL-473-50mW laser from [CNI Laser](http://www.cnilaser.com/), an optics company based in China with a wide range of turnkey optical systems for neuroscience applications. If you are planning on imaging at a different wavelength or have other specific requirements, they will probably be able to match your requirements.
+
+## Coupling Optics
+Light from the laser is coupled into the fiber using a system of optics detailed in the methods section of the paper and in `main_bom.ods`. Optics are assembled in a Thorlabs cage plate system for ease of alignment.
+
+In the paper, we include a shutter so that illumination can be turned off when not recording to avoid photobleaching. However, the MBL-473-50mW laser from CNI has a TTL modulation input that can also be used to turn the laser on and off. The shutter is only needed in settings where the illumination power needs to be very stable over the course of the recording, as modulating the laser current results in temporary thermal instability in the laser cavity and a period of minor intensity variability.
+
+The despeckler used in the paper has been discontinued since publication. Luckily, we have since developed a homemade despeckler that is both cheaper and more efficient than the previous despeckler, and can be built by hand in a few hours. We will post construction details as soon as we have the release version finalized, so follow this space for more details.
 
 # Commutator (optional)
+For recording sessions that last 30 minutes or less, you may be able to use a static recording setup without the animal twisting the tether excessively. However, for longer-term recordings or with very active or sensitive animals (e.g. birds), a commutator will be necessary to avoid tether wrapping issues. 
 
+We have designed an actively driven commutator for the microscopes that simultaneously transmits power, data, and illumination light. Design files, along with notes on assembly, can be found in the `commutator` directory as well as in `main_bom.ods`.
 
 
 
@@ -75,3 +89,5 @@ The DAQ hardware is based on that of the [UCLA Miniscope](https://github.com/Aha
 -ATtiny firmware
 
 -docs on bonsai module
+
+-example bonsai script
