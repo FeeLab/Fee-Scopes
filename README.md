@@ -75,11 +75,19 @@ In the paper, we include a shutter so that illumination can be turned off when n
 
 The despeckler used in the paper has been discontinued since publication. Luckily, we have since developed a homemade despeckler that is both cheaper and more efficient than the previous despeckler, and can be built by hand in a few hours. We will post construction details as soon as we have the release version finalized, so follow this space for more details.
 
-# Commutator (optional)
+# Commutator
 For recording sessions that last 30 minutes or less, you may be able to use a static recording setup without the animal twisting the tether excessively. However, for longer-term recordings or with very active or sensitive animals (e.g. birds), a commutator will be necessary to avoid tether wrapping issues. 
 
 We have designed an actively driven commutator for the microscopes that simultaneously transmits power, data, and illumination light. Design files, along with notes on assembly, can be found in the `commutator` directory as well as in `main_bom.ods`.
 
+## Machined components
+The commutator base consists of two custom machined aluminum plates. Drawings for these plates can be found in the `commutator` folder. They can be fabricated by your favorite machine shop or online machining service (we use [Protolabs](https://www.protolabs.com/services/cnc-machining/)).
+
+## PCB
+The commutator PCB provides regulated power to the microscope and sends a torque signal to the motor controller. It is a simple two-layer board and can be fabricated by [OSHPark](https://oshpark.com/). Design files can be found in the `commutator` folder in EAGLE format. Autodesk offers free educational licenses for EAGLE.
+
+## Motor Controller Box
+The commutator is driven by a Faulhaber DC motor controlled by a custom motor driver. The PCB for the driver can be found in `INSERT_DIRECTORY` and can also be fabricated by OSHPark. Components and assembly notes for the driver box can be found in `INSERT_DIRECTORY`.
 
 
 # TODO
