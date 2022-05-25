@@ -96,6 +96,6 @@ The commutator is driven by a Faulhaber DC motor controlled by a custom motor dr
 
 -ATtiny firmware
 
--docs on bonsai module
+-bonsai module
 
--example bonsai script
+-torque to motor controller board
