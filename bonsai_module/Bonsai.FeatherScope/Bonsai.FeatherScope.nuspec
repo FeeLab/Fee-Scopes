@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/feelab/Bonsai.FeatherScope/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/feelab/Bonsai.FeatherScope</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Galen Lynch © 2020</copyright>
+    <tags>Bonsai FeatherScope Rx Reactive Extensions Calcium Imaging Neuroscience Electrophysiology</tags>
+    <dependencies>
+      <group targetFramework="net45">
+        <dependency id="Bonsai.Core" version="2.3.0" />
+        <dependency id="OpenCV.Net" version="3.3.1" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
