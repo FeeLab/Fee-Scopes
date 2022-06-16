@@ -60,7 +60,7 @@ You will need to flash the firmware onto EEPROM before using the boards. Compile
 ## Recording Software
 The DAQ board presents itself to your computer as a webcam device, and for testing can be opened as a streaming device in [VLC](https://www.videolan.org/vlc/). For experiments, we acquire data from the microscope using [Bonsai](https://bonsai-rx.org/), a reactive programming languange designed for the multiple asynchronous data streams typical of behavioral neuroscience experiments. Bonsai has modules for recording from the UCLA Miniscope, Neuropixels, National Instruments devices, Arduinos, and various other data streams. We have written a module for our microscopes that can be downloaded from the Bonsai package manager. The module outputs video data in RGB565 format and allows for control of the image sensor gain. The source code can be found in `bonsai_module`.
 
-An example Bonsai script for recording can be found in `INSERT_DIRECTORY`. This script saves video from both the microscope and from an animal tracking camera simultaneously, while recording timestamps for each frame of both streams. Video is saved in the raw RGB565 format, but the script also performs realtime conversion to a human-interpretable grayscale image for online monitoring of the fluorescence signal.
+An example Bonsai script for recording can also be found in `bonsai_module`. This script saves video from both the microscope and from an animal tracking camera simultaneously, while recording timestamps for each frame of both streams. Video is saved in the raw RGB565 format, but the script also performs realtime conversion to a human-interpretable grayscale image for online monitoring of the fluorescence signal.
 
 
 # Illumination Optics
