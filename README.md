@@ -88,8 +88,3 @@ The commutator PCB provides regulated power to the microscope and sends a torque
 
 ## Motor Controller Box
 The commutator is driven by a Faulhaber DC motor controlled by a custom motor driver. The PCB for the driver can be found in `commutator/motor_controller` and can be fabricated by OSHPark. Components and assembly notes for the driver box can also be found in `commutator/motor_controller`.
-
-
-# TODO
-
--ATtiny firmware
