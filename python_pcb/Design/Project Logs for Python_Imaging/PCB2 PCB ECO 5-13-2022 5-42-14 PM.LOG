@@ -1,0 +1,35 @@
+Change Managed Component Library Link : Designator=U6 Old VaultGUID= New VaultGUID=7B5709D0-CFCB-11E1-A429-385E32E0CE67 Old ItemGUID= New ItemGUID=B8AB4554-408B-412B-8FA3-2A9C31103C94 Old RevisionGUID= New RevisionGUID=457DAA63-0B5F-4E14-B797-E54B1E193FDE
+Added Pin To Net: NetName=LV Pin=U6-1
+Added Pin To Net: NetName=FV Pin=U6-2
+Added Pin To Net: NetName=PCLK Pin=U6-3
+Added Pin To Net: NetName=SCL Pin=U6-4
+Added Pin To Net: NetName=SDA Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=NetR6_1 Pin=U6-8
+Added Pin To Net: NetName=NetC39_2 Pin=U6-9
+Added Pin To Net: NetName=VDDPLL Pin=U6-10
+Added Pin To Net: NetName=V1P8 Pin=U6-11
+Added Pin To Net: NetName=NetC38_1 Pin=U6-12
+Added Pin To Net: NetName=RF Pin=U6-13
+Added Pin To Net: NetName=VDDCML Pin=U6-14
+Added Pin To Net: NetName=GPIO0 Pin=U6-15
+Added Pin To Net: NetName=GPIO1 Pin=U6-16
+Added Pin To Net: NetName=GPIO2 Pin=U6-17
+Added Pin To Net: NetName=GPIO3 Pin=U6-18
+Added Pin To Net: NetName=DATA0 Pin=U6-19
+Added Pin To Net: NetName=DATA1 Pin=U6-20
+Added Pin To Net: NetName=DATA2 Pin=U6-21
+Added Pin To Net: NetName=DATA3 Pin=U6-22
+Added Pin To Net: NetName=DATA4 Pin=U6-23
+Added Pin To Net: NetName=DATA5 Pin=U6-24
+Added Pin To Net: NetName=V1P8 Pin=U6-25
+Added Pin To Net: NetName=DATA6 Pin=U6-26
+Added Pin To Net: NetName=DATA7 Pin=U6-27
+Added Pin To Net: NetName=V1P8 Pin=U6-28
+Added Pin To Net: NetName=DATA8 Pin=U6-29
+Added Pin To Net: NetName=DATA9 Pin=U6-30
+Added Pin To Net: NetName=TXD/RXD Pin=U6-31
+Added Pin To Net: NetName=XCK Pin=U6-32
+Added Pin To Net: NetName=GND Pin=U6-33
+Added Member To Class: ClassName=U_Serializer Member=Component U6 DS90UB913ATRTVRQ1

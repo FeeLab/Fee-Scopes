@@ -1,0 +1,121 @@
+Change Component Comment : Designator=U3 Old Comment=ASD oscillator New Comment=KC2520Z66.6667C1KX00
+Change Component Comment : Designator=C35 Old Comment=AVX F981A226MMALZT New Comment=F981A226MMALZT
+Change Component Comment : Designator=C17 Old Comment=AVX F981A475MUALZT New Comment=F981A475MUALZT
+Change Component Comment : Designator=C26 Old Comment=Cap Pol2 New Comment=F981A475MUALZT
+Change Component Comment : Designator=C31 Old Comment=Cap Pol2 New Comment=F981A475MUALZT
+Change Component Comment : Designator=U7 Old Comment=MAX44281OANS+ New Comment=MAX44281OANS+T
+Change Component Comment : Designator=U1 Old Comment=Microchip ATTINY816-MFR New Comment=ATTINY816-MFR
+Change Component Comment : Designator=C1 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C2 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C3 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C4 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C5 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C6 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C9 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C10 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C12 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C13 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C16 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C18 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C24 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C28 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C30 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C32 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C36 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C37 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C40 Old Comment=Murata GRM033C71C104KE14D New Comment=GRM033C71C104KE14D
+Change Component Comment : Designator=C22 Old Comment=Murata GRM033R60J105MEA2D New Comment=GRM033R60J105MEA2D
+Change Component Comment : Designator=C23 Old Comment=Murata GRM033R60J105MEA2D New Comment=GRM033R60J105MEA2D
+Change Component Comment : Designator=C39 Old Comment=Murata GRM033R60J105MEA2D New Comment=GRM033R60J105MEA2D
+Change Component Comment : Designator=C38 Old Comment=Murata GRM033R60J473KE19D New Comment=GRM033R60J473KE19D
+Change Component Comment : Designator=C8 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C15 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C19 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C25 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C27 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C29 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C33 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C34 Old Comment=Murata GRM033R71A103KA01D New Comment=GRM033R71A103KA01D
+Change Component Comment : Designator=C7 Old Comment=Murata GRM155R60J106ME44D New Comment=GRM155R61A106ME11D
+Change Component Comment : Designator=C11 Old Comment=Murata GRM155R60J106ME44D New Comment=GRM155R61A106ME11D
+Change Component Comment : Designator=C14 Old Comment=Murata GRM155R60J106ME44D New Comment=GRM155R61A106ME11D
+Change Component Comment : Designator=C20 Old Comment=Murata GRM155R60J106ME44D New Comment=GRM155R61A106ME11D
+Change Component Comment : Designator=C21 Old Comment=Murata GRM155R60J106ME44D New Comment=GRM155R61A106ME11D
+Change Component Comment : Designator=U4 Old Comment=ON Semiconductor NCP163AFCT330T2G New Comment=NCP163AFCT330T2G
+Change Component Comment : Designator=U5 Old Comment=ON Semiconductor NCP163AFCT330T2G New Comment=NCP163AFCT330T2G
+Change Component Comment : Designator=R4 Old Comment=Panasonic ERJ-1GEF49R9C New Comment=TNPW020149R9BEED
+Change Component Comment : Designator=R5 Old Comment=Panasonic ERJ-1GEJ103C New Comment=ERJ-1GNF1002C
+Change Component Comment : Designator=R6 Old Comment=Panasonic ERJ-1GEJ103C New Comment=ERJ-1GNF1002C
+Change Component Comment : Designator=R7 Old Comment=Panasonic ERJ-1GEJ104C New Comment=ERJ-1GNF1003C
+Change Component Comment : Designator=R3 Old Comment=Panasonic ERJ-1GEJ332C New Comment=CRCW02011K80JNED
+Change Component Comment : Designator=R2 Old Comment=Panasonic ERJ-1GEJ332C New Comment=ERA-1AEB152C
+Change Component Comment : Designator=R8 Old Comment=Panasonic ERJ-1GEJ332C New Comment=ERJ-1GNF3301C 
+Change Component Comment : Designator=R9 Old Comment=Panasonic ERJ-1GEJ332C New Comment=ERJ-1GNF3301C 
+Change Component Comment : Designator=R1 Old Comment=Samsung Electro-Mechanics RC0603F473CS New Comment=ERJ-1GNF4702C
+Change Component Description : Designator=C17 Old Description=4.7µF Molded Tantalum Capacitors 10V 0402 (1005 Metric) New Description=4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  
+Change Component Description : Designator=U1 Old Description=8-bit Microcontroller, 20MHz, 8KB, QFN20, Ind 125C, Green, in a 20 pin VQFN pkg New Description=AVR series Microcontroller IC 8-Bit 16MHz 8KB (8K x 8) FLASH 20-VQFN (3x3)
+Change Component Description : Designator=U6 Old Description=25-100MHz 10/12-Bit FPD-Link III SERIALIZER 32-WQFN -40 to 105 New Description=1.4Gbps Serializer 12 Input 1 Output 32-WQFN (5x5)
+Change Component Description : Designator=U3 Old Description=66.666MHz XO (Standard) HCMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead New Description=66.667 MHz XO (Standard) CMOS Oscillator 1.71V ~ 3.63V Standby (Power Down) 4-SMD, No Lead
+Change Component Description : Designator=C1 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+
+Change Component Description : Designator=C2 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  
+Change Component Description : Designator=C3 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  
+Change Component Description : Designator=C4 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C5 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C6 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  
+Change Component Description : Designator=C9 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C10 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C12 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C13 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C16 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C18 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C24 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C28 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C30 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C32 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C36 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C37 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C40 Old Description=CAP 0.1uF 16VDC X7S 10% SMD 0201 New Description=0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+Change Component Description : Designator=C35 Old Description=Capacitor, SMD, Resin Molded, High CV Undertab, F98 Series, 10Vdc, 22uF, ±20%, Case M (EIA0603), 1.6x0.85x0.8mm, 60ºC... New Description=22 µF Molded Tantalum Capacitors 10 V 0603 (1608 Metric) 8Ohm @ 100kHz
+Change Component Description : Designator=C8 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C15 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C19 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C25 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C27 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C29 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C33 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C34 Old Description=CAP CER 10000PF 10V 10% X7R 0201 New Description=10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)
+Change Component Description : Designator=C7 Old Description=Cap Ceramic 10uF 6.3V X5R 20% SMD 0402 85°C Paper T/R New Description=10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Component Description : Designator=C11 Old Description=Cap Ceramic 10uF 6.3V X5R 20% SMD 0402 85°C Paper T/R New Description=10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Component Description : Designator=C14 Old Description=Cap Ceramic 10uF 6.3V X5R 20% SMD 0402 85°C Paper T/R New Description=10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Component Description : Designator=C20 Old Description=Cap Ceramic 10uF 6.3V X5R 20% SMD 0402 85°C Paper T/R New Description=10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Component Description : Designator=C21 Old Description=Cap Ceramic 10uF 6.3V X5R 20% SMD 0402 85°C Paper T/R New Description=10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Component Description : Designator=C26 Old Description=Cap Tant Solid 4.7uF 10V U CASE 20% (1.1 x 0.6 x 0.55mm) SMD 1106-06 25Ohm 125°C T/R New Description=4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  
+Change Component Description : Designator=C31 Old Description=Cap Tant Solid 4.7uF 10V U CASE 20% (1.1 x 0.6 x 0.55mm) SMD 1106-06 25Ohm 125°C T/R New Description=4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  
+Change Component Description : Designator=FB2 Old Description=Chip Ferrite Bead for General Use, 1000 Ohm, 350 mA, -55 to 125 degC, 1 x 0.5 x 0.55 mm SMD, Tape and Reel New Description=1 kOhms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 350mA 490mOhm
+Change Component Description : Designator=FB3 Old Description=Chip Ferrite Bead for General Use, 1000 Ohm, 350 mA, -55 to 125 degC, 1 x 0.5 x 0.55 mm SMD, Tape and Reel New Description=1 kOhms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 350mA 490mOhm
+Change Component Description : Designator=FB1 Old Description=FERRITE BEAD 600 OHM 0402 1LN New Description=600 Ohms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 500mA 340mOhm
+Change Component Description : Designator=U7 Old Description=IC OPAMP GP 1 CIRCUIT 4WLP New Description=General Purpose Amplifier 1 Circuit Rail-to-Rail 4-WLP (0.84x0.84)
+Change Component Description : Designator=U4 Old Description=LDO Regulator, 250 mA, Ultra-High PSRR, Ultra-Low Noise 3.3 V, Active Discharge New Description=Linear Voltage Regulator IC Positive Fixed 1 Output 250mA 4-WLCSP (0.64x0.64)
+Change Component Description : Designator=U5 Old Description=LDO Regulator, 250 mA, Ultra-High PSRR, Ultra-Low Noise 3.3 V, Active Discharge New Description=Linear Voltage Regulator IC Positive Fixed 1 Output 250mA 4-WLCSP (0.64x0.64)
+Change Component Description : Designator=C22 Old Description=Multilayer Ceramic Capacitor, GRM Series, 1 uF, 20%, X5R, 6.3 V, 0201 [0603 Metric] New Description=1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)
+Change Component Description : Designator=C23 Old Description=Multilayer Ceramic Capacitor, GRM Series, 1 uF, 20%, X5R, 6.3 V, 0201 [0603 Metric] New Description=1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)
+Change Component Description : Designator=C39 Old Description=Multilayer Ceramic Capacitor, GRM Series, 1 uF, 20%, X5R, 6.3 V, 0201 [0603 Metric] New Description=1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)
+Change Component Description : Designator=C38 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT 0201 0.047uF 6.3volts X5R 10% New Description=0.047 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)
+Change Component Description : Designator=R4 Old Description=PANASONIC   ERJ-1GEF49R9C   THICK FILM, RESISTOR, 49.9OHM, 10mW, 1% New Description=49.9 Ohms ±0.1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film
+Change Component Description : Designator=R1 Old Description=RES SMD 47K OHM 1% 1/20W 0201 New Description=47 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change Component Description : Designator=R2 Old Description=Res Thick Film 0201 3.3K Ohm 5% 1/20W ±200ppm/C Molded SMD Paper T/R New Description=1.5 kOhms ±0.1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) - Thin Film
+Change Component Description : Designator=R3 Old Description=Res Thick Film 0201 3.3K Ohm 5% 1/20W ±200ppm/C Molded SMD Paper T/R New Description=1.8 kOhms ±5% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) - Thick Film
+Change Component Description : Designator=R8 Old Description=Res Thick Film 0201 3.3K Ohm 5% 1/20W ±200ppm/C Molded SMD Paper T/R New Description=3.3 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change Component Description : Designator=R9 Old Description=Res Thick Film 0201 3.3K Ohm 5% 1/20W ±200ppm/C Molded SMD Paper T/R New Description=3.3 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change Component Description : Designator=R5 Old Description=Res Thick Film 0201 10K Ohm 5% 0.05W(1/20W) ±200ppm/C Molded SMD Paper T/R New Description=10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change Component Description : Designator=R6 Old Description=Res Thick Film 0201 10K Ohm 5% 0.05W(1/20W) ±200ppm/C Molded SMD Paper T/R New Description=10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change Component Description : Designator=R7 Old Description=Res Thick Film 0201 100K Ohm 5% 1/20W ±200ppm/C Molded SMD Pressed Carrier T/R New Description=100 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film
+Change component parameters: Designator = "R2" ("R2"); Footprint = "PCB-7g93mzch2qc2q3jid3ok-1"; UniqueID = "\CTWDFJTD\VJCRXOBW" ("\CTWDFJTD\VJCRXOBW")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1.5k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Height"; Value = "0.00023 m"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "PCB-7g93mzch2qc2q3jid3ok-1"; UniqueID = "\CTWDFJTD\RQUAYBAE" ("\CTWDFJTD\RQUAYBAE")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1.8k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Height"; Value = "0.00023 m"; VariantName = "[No Variations]"

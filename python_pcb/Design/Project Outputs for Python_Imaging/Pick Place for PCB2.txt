@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+C:\Users\Joe\Documents\Fee-Scopes\python_pcb\Design\Project Outputs for Python_Imaging\Pick Place for PCB2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/05/22
+Time:       16:33
+Revision:   b7bae2d41f8185cd3b8242e6c6aad4ef823387b7
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer       Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                    
+C1         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -25.000       -83.000       0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)
+"                                                                   
+C2         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -81.000       -39.500       270      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  "                                                                   
+C3         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 92.000        -62.101       180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  "                                                                   
+C4         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 110.395       -2.000        270      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C5         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 92.000        -85.872       180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C6         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -98.000       40.000        0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)  "                                                                   
+C7         GRM155R61A106ME11D   BottomLayer PCB-uspfzztrpe7hn2xlyjz9-1 -108.890      -5.000        90       "10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"                                                                      
+C8         GRM033R71A103KA01D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 93.000        -39.000       180      "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C9         GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -98.000       64.000        0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C10        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 97.000        68.000        180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C11        GRM155R61A106ME11D   BottomLayer PCB-uspfzztrpe7hn2xlyjz9-1 -83.087       -79.000       180      "10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"                                                                      
+C12        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -59.000       87.000        0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C13        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -98.000       87.000        0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C14        GRM155R61A106ME11D   BottomLayer PCB-uspfzztrpe7hn2xlyjz9-1 -10.000       97.000        0        "10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"                                                                      
+C15        GRM033R71A103KA01D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 97.000        45.000        180      "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C16        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 36.253        196.396       0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C17        F981A475MUALZT       BottomLayer PCB-t0dwbiosd2m6unyihqym-1 82.000        6.000         90       "4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  "                                                                
+C18        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -7.087        142.181       270      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C19        GRM033R71A103KA01D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -115.846      189.000       270      "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C20        GRM155R61A106ME11D   BottomLayer PCB-uspfzztrpe7hn2xlyjz9-1 89.000        141.000       0        "10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"                                                                      
+C21        GRM155R61A106ME11D   BottomLayer PCB-uspfzztrpe7hn2xlyjz9-1 -65.000       132.000       90       "10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"                                                                      
+C22        GRM033R60J105MEA2D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 69.486        177.567       270      "1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"                                                                      
+C23        GRM033R60J105MEA2D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -99.000       151.000       180      "1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"                                                                      
+C24        GRM033C71C104KE14D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 80.049        397.000       180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C25        GRM033R71A103KA01D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 36.579        397.000       0        "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C26        F981A475MUALZT       BottomLayer PCB-t0dwbiosd2m6unyihqym-1 67.000        369.000       0        "4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  "                                                                
+C27        GRM033R71A103KA01D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -106.106      163.000       0        "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C28        GRM033C71C104KE14D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -61.024       163.000       180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C29        GRM033R71A103KA01D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 29.527        163.000       180      "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C30        GRM033C71C104KE14D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -18.000       163.000       0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C31        F981A475MUALZT       BottomLayer PCB-t0dwbiosd2m6unyihqym-1 63.000        335.000       0        "4.7 µF Molded Tantalum Capacitors 10 V 0402 (1005 Metric) -  "                                                                
+C32        GRM033C71C104KE14D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 117.000       341.000       90       "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C33        GRM033R71A103KA01D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 117.000       385.000       270      "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C34        GRM033R71A103KA01D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -51.000       397.000       0        "10000 pF ±10% 10V Ceramic Capacitor X7R 0201 (0603 Metric)"                                                                   
+C35        F981A226MMALZT       BottomLayer PCB-yxd74t6run51sg1ha7ug-1 -110.969      344.015       270      "22 µF Molded Tantalum Capacitors 10 V 0603 (1608 Metric) 8Ohm @ 100kHz"                                                       
+C36        GRM033C71C104KE14D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -7.577        397.000       180      "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C37        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 -36.000       371.000       0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+C38        GRM033R60J473KE19D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 23.000        359.000       270      "0.047 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"                                                                  
+C39        GRM033R60J105MEA2D   TopLayer    PCB-v6eq6etc9p7u7qdkgnno-1 -117.000      313.000       270      "1 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"                                                                      
+C40        GRM033C71C104KE14D   BottomLayer PCB-v6eq6etc9p7u7qdkgnno-1 31.000        -83.000       0        "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"                                                                     
+FB1        BLM15AX601SN1D       BottomLayer MURA-BLM15-CHIP-2_V        71.897        103.789       0        "600 Ohms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 500mA 340mOhm"                                                         
+FB2        BLM15AX102SN1D       BottomLayer MURA-BLM15-CHIP-2_V        115.000       351.000       90       "1 kOhms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 350mA 490mOhm"                                                          
+FB3        BLM15AX102SN1D       BottomLayer MURA-BLM15-CHIP-2_V        -74.000       348.000       270      "1 kOhms @ 100 MHz 1 - Ferrite Bead 0402 (1005 Metric) 350mA 490mOhm"                                                          
+R1         ERJ-1GNF4702C        BottomLayer PCB-7g93mzch2qc2q3jid3ok-1 -81.000       5.000         270      "47 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                    
+R2         ERA-1AEB152C         BottomLayer PCB-7g93mzch2qc2q3jid3ok-1 32.155        126.382       0        "1.5 kOhms ±0.1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) - Thin Film"                                                    
+R3         CRCW02011K80JNED     BottomLayer PCB-7g93mzch2qc2q3jid3ok-1 -30.517       141.580       270      "1.8 kOhms ±5% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) - Thick Film"                                                     
+R4         TNPW020149R9BEED     BottomLayer PCB-7g93mzch2qc2q3jid3ok-1 -3.000        359.000       270      "49.9 Ohms ±0.1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film" 
+R5         ERJ-1GNF1002C        TopLayer    PCB-7g93mzch2qc2q3jid3ok-1 -117.000      269.000       270      "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                    
+R6         ERJ-1GNF1002C        TopLayer    PCB-7g93mzch2qc2q3jid3ok-1 117.000       297.000       90       "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                    
+R7         ERJ-1GNF1003C        TopLayer    PCB-7g93mzch2qc2q3jid3ok-1 117.000       254.000       270      "100 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                   
+R8         "ERJ-1GNF3301C "     TopLayer    PCB-7g93mzch2qc2q3jid3ok-1 117.000       210.000       270      "3.3 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                   
+R9         "ERJ-1GNF3301C "     TopLayer    PCB-7g93mzch2qc2q3jid3ok-1 101.000       163.000       0        "3.3 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Automotive AEC-Q200 Thick Film"                                   
+U1         ATTINY816-MFR        BottomLayer PCB-hv4cq49t2e9uf1npj5by-1 0.000         0.000         90       "AVR series Microcontroller IC 8-Bit 16MHz 8KB (8K x 8) FLASH 20-VQFN (3x3)"                                                   
+U2         "Python 480"         TopLayer    Python_480                 0.000         0.000         0        "image sensor from ONSemi"                                                                                                     
+U3         KC2520Z66.6667C1KX00 BottomLayer ASD                        -50.000       211.000       180      "66.667 MHz XO (Standard) CMOS Oscillator 1.71V ~ 3.63V Standby (Power Down) 4-SMD, No Lead"                                   
+U4         NCP163AFCT330T2G     BottomLayer PCB-ng8273kv6qqz2xsov2q1-1 97.000        177.000       270      "Linear Voltage Regulator IC Positive Fixed 1 Output 250mA 4-WLCSP (0.64x0.64)"                                                
+U5         NCP163AFCT330T2G     BottomLayer PCB-ng8273kv6qqz2xsov2q1-1 -102.000      119.000       0        "Linear Voltage Regulator IC Positive Fixed 1 Output 250mA 4-WLCSP (0.64x0.64)"                                                
+U6         DS90UB913ATRTVRQ1    TopLayer    PCB-l2nnig1h4ckv44w98gav-1 0.000         280.000       90       "1.4Gbps Serializer 12 Input 1 Output 32-WQFN (5x5)"                                                                           
+U7         MAX44281OANS+T       BottomLayer FP-N40A0-1-MFG             31.301        159.169       0        "General Purpose Amplifier 1 Circuit Rail-to-Rail 4-WLP (0.84x0.84)"                                                           

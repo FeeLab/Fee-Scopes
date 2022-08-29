@@ -1,0 +1,4 @@
+Change Managed Component Library Link : Designator=C35 Old VaultGUID= New VaultGUID=7B5709D0-CFCB-11E1-A429-385E32E0CE67 Old ItemGUID= New ItemGUID=0480C619-92AA-4DF1-907C-9D373CCBE583 Old RevisionGUID= New RevisionGUID=6041BBB7-A666-4B80-AB43-3AFC171A0F05
+Added Pin To Net: NetName=VDDCML Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Member To Class: ClassName=U_Serializer Member=Component C35 AVX F981A226MMALZT
