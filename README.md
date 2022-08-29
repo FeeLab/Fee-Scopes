@@ -49,6 +49,12 @@ The board design files are free to view with Altium but require an Altium licens
 
 Step-by-step instructions for assembling the microscopes are provided in `scope_assembly_instructions.odp`. Most components are secured using UV cure optical cement that can be purchased from [Edmund Optics](https://www.edmundoptics.com/f/norland-optical-adhesives/11818/) or a similar supplier. These instructions are a work in progress, so please don't hesistate to contact us if any of the steps are unclear!
 
+## Programming
+
+Firmware for the Attiny on the PCB can be found in `attiny_firmware`. Source code is included, with the exception of a section of `sensor_power_sequencing.c` that is restricted under NDA with Arrow, a distributor of ONSemi components. If you want access to the register settings contained in this section of the source code, contact an ONSemi distributor and request an NDA for the Python 480 programming notes.
+
+The compiled code is contained in `Mscp_code/Release/Mscp_code.elf` and can be uploaded to the microcontroller using [Atmel Studio](https://microchipdeveloper.com/install:atstudio). We use [this programmer](https://www.microchip.com/en-us/development-tool/ATATMEL-ICE) but anything compatible with UPDI should work.
+
 
 # DAQ System
 
