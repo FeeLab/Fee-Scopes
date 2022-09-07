@@ -2,9 +2,9 @@
 
 # Getting Started
 
-Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. Please let us know if you have any feedback or suggestions for improving these resources--we are always looking for ways to make this project more useful to the community!
+Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. We are also excited about people using elements of this project for their own microscope designs. Please let us know if you have any feedback or suggestions for improving these resources--we are always looking for ways to make this project more useful to the community!
 
-The microscopes described in this repository are featured in [this bioRxiv paper](https://www.biorxiv.org/content/10.1101/2021.09.03.458947v1).
+The microscopes described in this repository are featured in [this bioRxiv paper](https://www.biorxiv.org/content/10.1101/2021.09.03.458947v2). All the analysis code in the paper can be found at [this repository](https://github.com/FeeLab/Microscope-Paper-Code), and the raw data from the paper is posted [here](https://academictorrents.com/details/aa2a3d2f5ff0b3974871db47db57bc3dabf3c192).
 
 A fully functional system is comprised of the microscope itself, a DAQ and acquisition computer, a laser and associated illumination optics, and (optionally) a commutator for long-term recording. The components necessary for each of these subsystems are listed in `main_bom.ods` along with a cost breakdown.
 
@@ -14,7 +14,7 @@ Each microscope is built from small optical components mounted inside 3D printed
 
 ## Aspheric Lenses
 
-The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. The lens module must first be removed from the sensor PCB using pliers. The outer sheet metal shell surrounding the lens module can then be removed by first sliding a scalpel underneath on all sides to remove mounting glue, and then carefully prying off the shell. The lens will then slide out of the housing. The remaining hardware attached to the lens can be clipped off with precision electronics pliers. Note that the lens material very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
+The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. The lens module must first be removed from the sensor PCB using pliers. The outer sheet metal shell surrounding the lens module can then be removed by first sliding a scalpel underneath on all sides to remove mounting glue, and then carefully prying off the shell. The lens will then slide out of the housing. The remaining hardware attached to the lens can be clipped off with precision electronics pliers. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
 
 ## Ground GRIN Lenses
 
@@ -48,6 +48,12 @@ The board design files are free to view with Altium but require an Altium licens
 ## Assembly
 
 Step-by-step instructions for assembling the microscopes are provided in `scope_assembly_instructions.odp`. Most components are secured using UV cure optical cement that can be purchased from [Edmund Optics](https://www.edmundoptics.com/f/norland-optical-adhesives/11818/) or a similar supplier. These instructions are a work in progress, so please don't hesistate to contact us if any of the steps are unclear!
+
+## Programming
+
+Firmware for the Attiny on the PCB can be found in `attiny_firmware`. Source code is included, with the exception of a section of `sensor_power_sequencing.c` that is restricted under NDA with Arrow, a distributor of ONSemi components. If you want access to the register settings contained in this section of the source code, contact an ONSemi distributor and request an NDA for the Python 480 programming notes.
+
+The compiled code is contained in `Mscp_code/Release/Mscp_code.elf` and can be uploaded to the microcontroller using [Atmel Studio](https://microchipdeveloper.com/install:atstudio). We use [this programmer](https://www.microchip.com/en-us/development-tool/ATATMEL-ICE) but anything compatible with UPDI should work.
 
 
 # DAQ System
@@ -88,8 +94,3 @@ The commutator PCB provides regulated power to the microscope and sends a torque
 
 ## Motor Controller Box
 The commutator is driven by a Faulhaber DC motor controlled by a custom motor driver. The PCB for the driver can be found in `commutator/motor_controller` and can be fabricated by OSHPark. Components and assembly notes for the driver box can also be found in `commutator/motor_controller`.
-
-
-# TODO
-
--ATtiny firmware
