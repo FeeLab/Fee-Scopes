@@ -45,7 +45,7 @@ Here are the specifications for the boards if you want to order them from anothe
 
 The board design files are free to view with Altium but require an Altium license to edit. If you are a student, you can obtain an [educational license](https://www.altium.com/education/student-licenses) for free. Let us know if you would like to convert the design files to an open-source format like KiCad and we would be happy to assist.
 
-![Alt text](media/pcb_1.jpg?raw=true "Title")
+![pcb_1](media/pcb_1.jpg)
 
 ## Assembly
 
