@@ -2,15 +2,14 @@
 
 # Getting Started
 
+<img src="https://user-images.githubusercontent.com/39060975/188954634-36cc6065-a051-4b47-b6b4-817db1fe1d80.gif" alt="Altium screenshot of schematic" width="300" align="right" />
+
 Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. We are also excited about people using elements of this project for their own microscope designs. Please let us know if you have any feedback or suggestions for improving these resources--we are always looking for ways to make this project more useful to the community!
 
 The microscopes described in this repository are featured in [this bioRxiv paper](https://www.biorxiv.org/content/10.1101/2021.09.03.458947v2). All the analysis code in the paper can be found at [this repository](https://github.com/FeeLab/Microscope-Paper-Code), and the raw data from the paper is posted [here](https://academictorrents.com/details/aa2a3d2f5ff0b3974871db47db57bc3dabf3c192).
 
 A fully functional system is comprised of the microscope itself, a DAQ and acquisition computer, a laser and associated illumination optics, and (optionally) a commutator for long-term recording. The components necessary for each of these subsystems are listed in `main_bom.ods` along with a cost breakdown.
 
-
-
-<img src="https://imgur.com/gallery/lBwmIiy.gif" alt="kiloscope gif" width="400"/>
 
 
 # Microscope
