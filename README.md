@@ -2,7 +2,7 @@
 
 # Getting Started
 
-<<img src="https://user-images.githubusercontent.com/39060975/188954634-36cc6065-a051-4b47-b6b4-817db1fe1d80.gif" alt="Altium screenshot of schematic" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/39060975/188954634-36cc6065-a051-4b47-b6b4-817db1fe1d80.gif" alt="Altium screenshot of schematic" width="300" align="right" />
 
 Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. We are also excited about people using elements of this project for their own microscope designs. Please let us know if you have any feedback or suggestions for improving these resources--we are always looking for ways to make this project more useful to the community!
 
