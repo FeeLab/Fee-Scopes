@@ -55,7 +55,7 @@ The board design files are free to view with Altium but require an Altium licens
 
 ## Assembly
 
-Step-by-step instructions for assembling the microscopes are provided in `assembly_instructions/`. Most components are secured using UV cure optical cement that can be purchased from [Edmund Optics](https://www.edmundoptics.com/f/norland-optical-adhesives/11818/) or a similar supplier. These instructions are a work in progress, so please don't hesistate to contact us if any of the steps are unclear!
+Step-by-step instructions for assembling the microscopes are provided in `assembly_instructions`. Most components are secured using UV cure optical cement that can be purchased from [Edmund Optics](https://www.edmundoptics.com/f/norland-optical-adhesives/11818/) or a similar supplier. These instructions are a work in progress, so please don't hesistate to contact us if any of the steps are unclear!
 
 ## Programming
 
