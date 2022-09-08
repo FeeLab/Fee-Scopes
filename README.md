@@ -18,7 +18,7 @@ Each microscope is built from small optical components mounted inside 3D printed
 
 <img src="https://user-images.githubusercontent.com/39060975/189229519-e79dd477-99b3-430e-9ae3-d276f58ffb2a.jpg" alt="lens assembly" width="250" align="right" />
 
-The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. Instructions for removing the lenses from the modules can be found in `assembly_instructions/s9_camera_disassembly.odp`. The process should take about 20 minutes for an experienced assembler. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
+The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. Instructions for removing the lenses from the modules can be found in `assembly_instructions`. The process should take about 20 minutes for an experienced assembler. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
 
 ## Ground GRIN Lenses
 
