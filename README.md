@@ -51,11 +51,11 @@ The board design files are free to view with Altium but require an Altium licens
 
 <img src="media/board_schematic.png" alt="Altium screenshot of schematic" width="400"/>
 
+<img src="media/pcb_1.jpg" alt="top side of assembled pcb" width="200"/> <img src="media/pcb_2.jpg" alt="bottom side of assembled pcb" width="200"/>
+
 ## Assembly
 
 Step-by-step instructions for assembling the microscopes are provided in `scope_assembly_instructions.odp`. Most components are secured using UV cure optical cement that can be purchased from [Edmund Optics](https://www.edmundoptics.com/f/norland-optical-adhesives/11818/) or a similar supplier. These instructions are a work in progress, so please don't hesistate to contact us if any of the steps are unclear!
-
-<img src="media/pcb_1.jpg" alt="top side of assembled pcb" width="200"/> <img src="media/pcb_2.jpg" alt="bottom side of assembled pcb" width="200"/>
 
 ## Programming
 
