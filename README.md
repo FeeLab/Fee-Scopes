@@ -78,6 +78,8 @@ The DAQ board presents itself to your computer as a webcam device, and for testi
 
 An example Bonsai script for recording can also be found in `bonsai_module`. This script saves video from both the microscope and from an animal tracking camera simultaneously, while recording timestamps for each frame of both streams. Video is saved in the raw RGB565 format, but the script also performs realtime conversion to a human-interpretable grayscale image for online monitoring of the fluorescence signal.
 
+![Capture](https://user-images.githubusercontent.com/39060975/189235363-cb3f2726-134f-488f-8830-4817ed7d685e.PNG)
+
 
 # Illumination Optics
 
