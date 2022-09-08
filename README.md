@@ -2,7 +2,7 @@
 
 # Getting Started
 
-<img src="https://user-images.githubusercontent.com/39060975/188962142-7db3ae27-2b77-4a19-a5f3-c8ede52aa524.gif" alt="Altium screenshot of schematic" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/39060975/188962142-7db3ae27-2b77-4a19-a5f3-c8ede52aa524.gif" alt="animation of neural activity recorded in a mouse using the Kiloscope" width="300" align="right" />
 
 Welcome to the repository on all things related to the Featherscope and Kiloscope, two light-weight head-mounted microscopes developed in the Fee lab at MIT. Our intent with this repository is to give you all the information you need to build your own scopes to use in your lab. We are also excited about people using elements of this project for their own microscope designs. Please let us know if you have any feedback or suggestions for improving these resources--we are always looking for ways to make this project more useful to the community!
 
@@ -10,15 +10,15 @@ The microscopes described in this repository are featured in [this bioRxiv paper
 
 A fully functional system is comprised of the microscope itself, a DAQ and acquisition computer, a laser and associated illumination optics, and (optionally) a commutator for long-term recording. The components necessary for each of these subsystems are listed in `main_bom.ods` along with a cost breakdown.
 
-
-
 # Microscope
 
 Each microscope is built from small optical components mounted inside 3D printed parts. The optics needed for each microscope can be found under the Kiloscope and Featherscope tabs of `main_bom.ods`. The STEP files for the printed parts are located in the `body_components` folder. Technical details about the construction process can be found in the Methods section of the paper.
 
 ## Aspheric Lenses
 
-The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. The lens module must first be removed from the sensor PCB using pliers. The outer sheet metal shell surrounding the lens module can then be removed by first sliding a scalpel underneath on all sides to remove mounting glue, and then carefully prying off the shell. The lens will then slide out of the housing. The remaining hardware attached to the lens can be clipped off with precision electronics pliers. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
+<img src="https://user-images.githubusercontent.com/39060975/189229519-e79dd477-99b3-430e-9ae3-d276f58ffb2a.jpg" alt="lens assembly" width="300" align="right" />
+
+The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. Instructions for removing the lenses from the modules can be found in `assembly_instructions/s9_camera_disassembly.odp`. The process should take about 20 minutes for an experienced assembler. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
 
 ## Ground GRIN Lenses
 
