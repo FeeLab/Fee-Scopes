@@ -22,6 +22,8 @@ The aspheric lens assemblies used in the Kiloscope are taken from replacement re
 
 ## Ground GRIN Lenses
 
+<img src="https://user-images.githubusercontent.com/39060975/189234161-5e77eb27-814d-4e6b-93c9-eb3f69d04509.jpg" alt="GRIN lens" width="250" align="right" />
+
 The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been ground down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of the original lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these components. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
 ## 3D Prints
