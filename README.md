@@ -16,17 +16,22 @@ Each microscope is built from small optical components mounted inside 3D printed
 
 ## Aspheric Lenses
 
-<img src="https://user-images.githubusercontent.com/39060975/189229519-e79dd477-99b3-430e-9ae3-d276f58ffb2a.jpg" alt="lens assembly" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/39060975/189229519-e79dd477-99b3-430e-9ae3-d276f58ffb2a.jpg" alt="lens assembly" width="250" align="right" />
 
-The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. Instructions for removing the lenses from the modules can be found in `assembly_instructions/s9_camera_disassembly.odp`. The process should take about 20 minutes for an experienced assembler. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
+The aspheric lens assemblies used in the Kiloscope are taken from replacement rear camera modules for the Samsung Galaxy S9 phone. These modules can be purchased online from 3rd party vendors, however the lenses then need to be carefully removed from the assembled housing. Instructions for removing the lenses from the modules can be found in `assembly_instructions`. The process should take about 20 minutes for an experienced assembler. Note that the lens material is very easy to scratch and difficult to clean, so be careful not to touch the lens faces during this process! When you have extracted the lens, you can store it safely in a PDMS device carrier (we reuse the containers that Edmund Optics ships their prisms in).
 
 ## Ground GRIN Lenses
+
+<img src="https://user-images.githubusercontent.com/39060975/189234161-5e77eb27-814d-4e6b-93c9-eb3f69d04509.jpg" alt="GRIN lens" width="250" align="right" />
 
 The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been ground down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of the original lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these components. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
 ## 3D Prints
 
 We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company based in Minnesota that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
+
+![00046](https://user-images.githubusercontent.com/39060975/189720540-86d651a0-f26e-44e9-ac99-e1db2fc54316.jpg)
+
 
 ## Printed Circuit Boards
 
@@ -75,6 +80,8 @@ You will need to flash the firmware onto EEPROM before using the boards. Compile
 The DAQ board presents itself to your computer as a webcam device, and for testing can be opened as a streaming device in [VLC](https://www.videolan.org/vlc/). For experiments, we acquire data from the microscope using [Bonsai](https://bonsai-rx.org/), a reactive programming languange designed for the multiple asynchronous data streams typical of behavioral neuroscience experiments. Bonsai has modules for recording from the UCLA Miniscope, Neuropixels, National Instruments devices, Arduinos, and various other data streams. We have written a module for our microscopes that can be downloaded from the Bonsai package manager. The module outputs video data in RGB565 format and allows for control of the image sensor gain. The source code can be found in `bonsai_module`.
 
 An example Bonsai script for recording can also be found in `bonsai_module`. This script saves video from both the microscope and from an animal tracking camera simultaneously, while recording timestamps for each frame of both streams. Video is saved in the raw RGB565 format, but the script also performs realtime conversion to a human-interpretable grayscale image for online monitoring of the fluorescence signal.
+
+![Capture](https://user-images.githubusercontent.com/39060975/189235363-cb3f2726-134f-488f-8830-4817ed7d685e.PNG)
 
 
 # Illumination Optics
