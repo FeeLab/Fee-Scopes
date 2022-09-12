@@ -30,6 +30,9 @@ The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Opti
 
 We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company based in Minnesota that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
 
+![00046](https://user-images.githubusercontent.com/39060975/189720540-86d651a0-f26e-44e9-ac99-e1db2fc54316.jpg)
+
+
 ## Printed Circuit Boards
 
 We order our image sensor boards from [Speedy Circuits](http://www.speedy-circuits.com.tw/), a board house in Taiwan that specializes in small run fabrication and assembly. We highly recommend the additional cost of board assembly unless you really want to practice your BGA soldering skills! Boards can be ordered using the gerber files found in the `python_pcb` folder.
