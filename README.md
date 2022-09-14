@@ -10,6 +10,8 @@ The microscopes described in this repository are featured in [this bioRxiv paper
 
 A fully functional system is comprised of the microscope itself, a DAQ and acquisition computer, a laser and associated illumination optics, and (optionally) a commutator for long-term recording. The components necessary for each of these subsystems are listed in `main_bom.ods` along with a cost breakdown.
 
+![00087](https://user-images.githubusercontent.com/39060975/190225447-0b16597b-3f93-4959-9d59-f8edd6c7bc80.jpg)
+
 # Microscope
 
 Each microscope is built from small optical components mounted inside 3D printed parts. The optics needed for each microscope can be found under the Kiloscope and Featherscope tabs of `main_bom.ods`. The STEP files for the printed parts are located in the `body_components` folder. Technical details about the construction process can be found in the Methods section of the paper.
