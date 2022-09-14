@@ -10,7 +10,7 @@ The microscopes described in this repository are featured in [this bioRxiv paper
 
 A fully functional system is comprised of the microscope itself, a DAQ and acquisition computer, a laser and associated illumination optics, and (optionally) a commutator for long-term recording. The components necessary for each of these subsystems are listed in `main_bom.ods` along with a cost breakdown.
 
-![00090](https://user-images.githubusercontent.com/39060975/190230728-d910ecd2-6967-4b3d-8219-975cdbca2e30.jpg)
+![00090](https://user-images.githubusercontent.com/39060975/190231239-8f23275c-4ac1-42b7-9ddf-8c3d565c1048.jpg)
 
 # Microscope
 
