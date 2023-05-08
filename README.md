@@ -28,6 +28,13 @@ The aspheric lens assemblies used in the Kiloscope are taken from replacement re
 
 The tube lens used in the Featherscope is a GRIN lens purchased from Edmund Optics that has been ground down to a total length of 1 mm. Ideally we would have GRINTech, the manufacturer of the original lenses, make us custom lenses with the correct length to begin with. However, GRINTech and Inscopix have signed an anticompetitive exclusive distribution agreement for one-photon calcium imaging, so we have to be a little more creative about how we get these components. We purchase lenses from Edmund Optics (part number in BOM) and have them ground down to 1.00 mm by Pioneer Precision Optics, a custom optics company based in Massachusetts.
 
+## Fiber Bundles
+
+The fiber bundle used in the Featherscope is made by [Acrolite](https://www.acrolite.net/products/micro-fiber-optics), a company based in New York that specializes in making impressively tiny and intricate optical fiber bundles with custom potted termination geometries. They have a great engineering department and will work with you on custom solutions if you want to design a different illumination path.
+
+![image](https://user-images.githubusercontent.com/39060975/236925962-909e4108-1cbd-4079-9c63-446aed9fc5aa.png)
+
+
 ## 3D Prints
 
 We have had success ordering prints from [Rosenberg Industries](https://www.rosenbergindustries.com), a company based in Minnesota that specializes in prints for neuroscience implant devices. Parts are printed in Formlabs Grey resin at 25 micron resolution.
